@@ -6,7 +6,7 @@ $ git clone https://github.com/MasterPops/RenessansTest.git
 
 $ cd RenessansTest
 
-2. Запустить контейнеры Docker
+2. Запустить контейнер Docker
 
 $ docker-compose up
 
